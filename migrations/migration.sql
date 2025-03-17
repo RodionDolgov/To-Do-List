@@ -6,3 +6,4 @@ CREATE TABLE tasks (
     created_at TIMESTAMP DEFAULT now(),
     updated_at TIMESTAMP DEFAULT now()
 );
+
